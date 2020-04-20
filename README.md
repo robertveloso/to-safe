@@ -2,8 +2,8 @@
   GR1d - Tô Safe
 </h1>
 <p align="center">
-<img src="screenshot/about.png">
-<img src="screenshot/about2.png">
+<img width="188" height="404" src="screenshot/about.png">
+<img width="188" height="404" src="screenshot/about2.png">
 <small>
 </br>
 <a href="https://www.figma.com/file/1MI8biqg49lvJYgN6UFLrX/T%C3%B4-Safe-UX-Project">Figma</a></br>
